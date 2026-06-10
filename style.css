@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'exo-2';
+  src: url('exo2.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
 body {
   background-color: #ababab;
   color: #888;
-  font-family: Exo2-VariableFont_wght;
+  font-family: exo-2, arial;
 }
