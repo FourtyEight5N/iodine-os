@@ -5,7 +5,7 @@
   font-style: normal;
 }
 body {
-  background-color: #525252;
-  color: #aaa;
-  font-family: exo-2, sans-serif;
+  background-color: #525252 !important;
+  color: #aaa !important;
+  font-family: exo-2, sans-serif !important;
 }
